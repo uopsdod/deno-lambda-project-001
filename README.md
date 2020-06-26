@@ -1,11 +1,17 @@
 # deno-lambda-project-001
 
 ### step01: build custom deno runtime - using Lambda Layer 
+-> show no built-in deno runtime
+-> introduce SAR as a thing to use existing Lambda layer 
+-> create it 
+-> check cloudformation stack 
 ### step02: create a dummy lambda
 ### step02-01: add Lambda layer 
 ### step02-02: complete handler code (1st version) 
+-> check handler setting 
 ### step03: test it 
 ### step04: modify handler code (2nd version)
+-> kind of show a feel how to use deno lambda in a real world 
 ### step05: test it 
 
 
